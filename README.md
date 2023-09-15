@@ -1,7 +1,7 @@
 
 # Course-Registraition
 
-### Project Features :
+# Project Features :
 
 - **Course Selection and Cart Management:** Users can browse and select courses from the Course List, and when they click on a course select button, its title is added to the cart. The cart dynamically updates to display the selected courses, their prices, and credit hours. This feature provides an intuitive and interactive way for users to build their course list.
 
@@ -15,7 +15,7 @@
 
 
 
-### Discusion about State how i manageed and use in my project.
+# Discusion about State how i manageed and use in my project.
 
 - In the Home component and In App component, i declared and managed several state variables using the useState hook. These state variables include addCourse, addTitle, totalCredit, remainingHours, and totalMoney.
 
